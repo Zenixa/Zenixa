@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=Zenixa) # Zenixa
+# Zenixa ![Profile views](https://komarev.com/ghpvc/?username=Zenixa)
 
 
 [![Top Langs](https://vercel-theta-wine.vercel.app/api/top-langs/?username=Zenixa&layout=compact&langs_count=10&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
